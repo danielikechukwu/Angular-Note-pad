@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    background-color: white;
+    margin: 0;
+    padding: 5px 3%;
+    color: whitesmoke;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+}
+
+.brand {
+  flex: 1;
+    display: flex;
+    align-items: end;
+}
+
+#brand-image {
+    border-radius: 50%;
+    width: 40px;
+    text-align: center;
+    height: 40px;
+    margin-right: 17px;
+}
+
+h5 {
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #20B2AA;
+}
